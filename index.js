@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['./order'],
+  extends: ['./order', './scss.js', './a11y.js'],
 };

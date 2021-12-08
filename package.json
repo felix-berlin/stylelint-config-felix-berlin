@@ -1,0 +1,22 @@
+{
+  "name": "@felix_berlin/stylelint-config-felix-berlin",
+  "version": "1.0.1",
+  "description": "My personal stylelint config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felix-berlin/stylelint-config-felix-berlin.git"
+  },
+  "keywords": [
+    "stylelint"
+  ],
+  "author": "Felix Scholze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felix-berlin/stylelint-config-felix-berlin/issues"
+  },
+  "homepage": "https://github.com/felix-berlin/stylelint-config-felix-berlin#readme"
+}
