@@ -1,5 +1,5 @@
 # stylelint-config-felix-berlin
 
 ```bash
-npm i @felix_berlin/stylelint-config-felix-berlin
+npm i @felix_berlin/stylelint-config-felix-berlin --save-dev
 ```
