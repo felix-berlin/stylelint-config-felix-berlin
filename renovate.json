@@ -1,5 +1,6 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "schedule": ["every 12 months on the first day of the month"]
 }
